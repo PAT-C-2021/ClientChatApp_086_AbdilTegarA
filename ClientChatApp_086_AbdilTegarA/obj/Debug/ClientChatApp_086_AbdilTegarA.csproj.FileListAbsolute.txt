@@ -1,0 +1,7 @@
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\13\ClientChatApp_086_AbdilTegarA\ClientChatApp_086_AbdilTegarA\obj\Debug\ClientChatApp_086_AbdilTegarA.csprojAssemblyReference.cache
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\13\ClientChatApp_086_AbdilTegarA\ClientChatApp_086_AbdilTegarA\obj\Debug\ClientChatApp_086_AbdilTegarA.csproj.CoreCompileInputs.cache
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\13\ClientChatApp_086_AbdilTegarA\ClientChatApp_086_AbdilTegarA\bin\Debug\ClientChatApp_086_AbdilTegarA.exe.config
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\13\ClientChatApp_086_AbdilTegarA\ClientChatApp_086_AbdilTegarA\bin\Debug\ClientChatApp_086_AbdilTegarA.exe
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\13\ClientChatApp_086_AbdilTegarA\ClientChatApp_086_AbdilTegarA\bin\Debug\ClientChatApp_086_AbdilTegarA.pdb
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\13\ClientChatApp_086_AbdilTegarA\ClientChatApp_086_AbdilTegarA\obj\Debug\ClientChatApp_086_AbdilTegarA.exe
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\13\ClientChatApp_086_AbdilTegarA\ClientChatApp_086_AbdilTegarA\obj\Debug\ClientChatApp_086_AbdilTegarA.pdb
